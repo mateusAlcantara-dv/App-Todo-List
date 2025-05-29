@@ -16,4 +16,6 @@ O estado é tratado de forma imutável, e a UI reage às mudanças com BlocBuild
   - Bloc/Cubit
   - UUID
   - Flutter Widgets
+## GIF
+![Demonstração do App](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJ6MzdlN2EwbjV1eXozcGttODdzZGw5eXlleG85cGR5OGlzYTc4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qzHjt8dQHPFnCen63z/giphy.gif)
 
